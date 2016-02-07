@@ -3354,5 +3354,5 @@ declare module d3 {
 interface TouchList { }
 
 declare module 'd3' {
-    export = d3;
+    export default d3;
 }
